@@ -7,6 +7,7 @@
 **Engine:** Unity  
 **Programming Language:** C#  
 **Genre:** Visual Novel / Rhythm Game / Puzzle
+
 The original Unity project has been successfully reopened and tested in Unity 6000.0.51f1.
 
 The game integrates interactive storytelling with rhythm challenges, puzzle mechanics, animated sequences, and branching gameplay experiences.
