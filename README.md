@@ -32,7 +32,7 @@ The project includes several gameplay systems:
 
 ## Development & AI Assistance
 
-I believe I wrote some of the simpler parts, such as basic Boolean conditions, victory UI interactions, note-hit detection, and dialogue interactions, which were later refined with AI assistance. For more complex systems, I relied more heavily on AI and tutorials.
+I wrote some of the simpler parts, such as basic Boolean conditions, victory UI interactions, note-hit detection, and dialogue interactions, which were later refined with AI assistance. For more complex systems, I relied more heavily on AI and tutorials.
 
 ## Source Code
 
